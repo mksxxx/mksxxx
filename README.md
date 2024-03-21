@@ -1,3 +1,6 @@
+
+
+
 ### Hello World! Sou Marcos Vinicius 👋🤙
 
 [![blog](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://mksdev.com)
@@ -15,3 +18,5 @@
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mksxxx)](https://github.com/anuraghazra/github-readme-stats)
+
+### Atualmente estudando desenvolvimento web
