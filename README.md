@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there, nice to meet you, I'm Marcos<br>- 18 years<br>- Student<br>- Web developer</p>
+<p align="left">Hi there, nice to meet you, I'm Marcos<br>- 18 years<br>- Student<br>- Web developer -pt-BR/en-US</p>
 
 ###
 
