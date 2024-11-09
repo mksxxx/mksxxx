@@ -53,3 +53,15 @@
 </div>
 
 ###
+
+<div align="right">
+  <img height="200" src="https://pin.it/63TINPAsc"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mksxxx/count.svg?"  />
+</div>
+
+###
