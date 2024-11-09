@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there, nice to meet you, I'm Marcos<br>- 18 years<br>- Student<br>- Web developer -pt-BR/en-US</p>
+<p align="left">Hi there, nice to meet you, I'm Marcos<br>- 18 years<br>- Student<br>- Web developer<br>- pt-BR/en-US</p>
 
 ###
 
@@ -36,7 +36,9 @@
   <a href="https://www.instagram.com/mksvwtt/profilecard/?igsh=dXg4ajV4Z3Y3YXNy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="857336481559740457" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ###
